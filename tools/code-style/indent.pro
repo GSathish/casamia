@@ -1,0 +1,57 @@
+-bad
+-br
+-brs
+-cdw
+-ce
+-hnl
+-i2
+-l80
+-lp
+-nbap
+-nbbb
+-ncdb
+-ncs
+-nfca
+-nlps
+-npcs
+-nprs
+-nsaf
+-nsai
+-nsaw
+-nsc
+-nut
+-psl
+-T int8_t
+-T int16_t
+-T int32_t
+-T uint8_t
+-T uint16_t
+-T uint32_t
+-T coap_notification_flag_t 
+-T coap_observee_t 
+-T coap_observer_t 
+-T coap_packet_t 
+-T coap_transaction_t 
+-T int16_t 
+-T int32_t 
+-T int8_t 
+-T list_t 
+-T PmReturn_t 
+-T pPmDict_t 
+-T pPmFrame_t 
+-T pPmInstance_t 
+-T pPmNativeFxn_t 
+-T pPmObj_t 
+-T process_event_t 
+-T resource_t 
+-T rest_resource_flags_t 
+-T size_t 
+-T tres_is_t 
+-T tres_od_t 
+-T tres_pm_io_t 
+-T tres_res_t 
+-T uint16_t 
+-T uint32_t 
+-T uint8_t 
+-T uip_ipaddr_t 
+-T zerogrouping_t 
